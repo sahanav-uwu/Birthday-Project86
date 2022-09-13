@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-radius: 30%;
+    background-color:hotpink;
+    border-style: ridge;
+    border-color: hotpink;
+}
+
